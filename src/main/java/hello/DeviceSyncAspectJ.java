@@ -3,6 +3,9 @@ package hello;
 import org.aspectj.lang.annotation.*;
 import org.springframework.stereotype.Component;
 
+/**
+ * @author qinlinsen
+ */
 @Aspect
 @Component
 public class DeviceSyncAspectJ {
